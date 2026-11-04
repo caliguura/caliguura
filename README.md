@@ -8,6 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=480&lines=Hi%2C+I'm+caliguura;I+build+Telegram+bots;I+make+websites;I+write+Python+tools;Learning+something+new+every+day" alt="typing" />
 </a>
 
+<br/>
+
+<img src="katana.gif" width="600" alt="katana" />
+
 </div>
 
 ---
