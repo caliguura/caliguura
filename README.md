@@ -58,10 +58,20 @@ I build things for fun and learn by shipping them:
 
 ## 📁 Projects
 
-> 🚧 Work in progress: my first project is almost done and will show up here soon.
+<div align="center">
+
+<a href="https://github.com/caliguura/Clipper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caliguura&repo=Clipper&theme=dark&bg_color=0d0d0d&title_color=e63946&icon_color=e63946&text_color=e8e8e8&border_color=2a2a2a" alt="Clipper" />
+</a>
+
+</div>
+
+### 🔴 [Clipper](https://github.com/caliguura/Clipper)
+Local web app to download **YouTube** and **TikTok** videos by link, with timestamp selection, segment preview and a theme that adapts to the service.
+`Python` `Flask` `yt-dlp` `JavaScript`
 
 <!--
-Template for later:
+Template for the next project:
 
 ### 🔹 Project name
 Short description of what it does.
