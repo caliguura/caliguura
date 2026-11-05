@@ -60,7 +60,7 @@ I build things for fun and learn by shipping them:
 ## 📁 Projects
 
 ### 🔴 [Clipper](https://github.com/caliguura/Clipper)
-Local web app to download **YouTube** and **TikTok** videos by link, with timestamp selection, segment preview and a theme that adapts to the service.
+App to download **YouTube**, **TikTok** and **SoundCloud** by link, with timestamp selection, segment preview, a theme that adapts to the service and a ready-to-run Windows `.exe`.
 `Python` `Flask` `yt-dlp` `JavaScript`
 
 <!--
