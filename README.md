@@ -47,8 +47,9 @@ I build things for fun and learn by shipping them:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=caliguura&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=e63946&icon_color=e63946&text_color=e8e8e8&ring_color=e63946" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caliguura&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=e63946&text_color=e8e8e8" alt="top languages" />
+<img src="https://img.shields.io/github/followers/caliguura?style=for-the-badge&logo=github&logoColor=e63946&label=followers&labelColor=0d0d0d&color=1a1a1a" alt="followers" />
+<img src="https://img.shields.io/github/stars/caliguura/Clipper?style=for-the-badge&logo=github&logoColor=e63946&label=Clipper%20stars&labelColor=0d0d0d&color=1a1a1a" alt="stars" />
+<img src="https://img.shields.io/github/last-commit/caliguura/Clipper?style=for-the-badge&logo=git&logoColor=e63946&label=last%20commit&labelColor=0d0d0d&color=1a1a1a" alt="last commit" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=caliguura&background=0d0d0d&ring=e63946&fire=e63946&currStreakLabel=e63946&sideLabels=e8e8e8&currStreakNum=e8e8e8&sideNums=e8e8e8&dates=8a8a8a&stroke=2a2a2a&hide_border=true" alt="streak" />
 
@@ -57,14 +58,6 @@ I build things for fun and learn by shipping them:
 ---
 
 ## 📁 Projects
-
-<div align="center">
-
-<a href="https://github.com/caliguura/Clipper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=caliguura&repo=Clipper&theme=dark&bg_color=0d0d0d&title_color=e63946&icon_color=e63946&text_color=e8e8e8&border_color=2a2a2a" alt="Clipper" />
-</a>
-
-</div>
 
 ### 🔴 [Clipper](https://github.com/caliguura/Clipper)
 Local web app to download **YouTube** and **TikTok** videos by link, with timestamp selection, segment preview and a theme that adapts to the service.
